@@ -6,7 +6,7 @@ This Bootstrapper allows you to run the following demo scenarios:
 - Compensation adjustment
 - Disciplinary issue
 - Need a corporate credit card
-- Medical Benfits
+- Medical Benefits
 - Parental leave of absense
 - Promotion
 - NDA Update
