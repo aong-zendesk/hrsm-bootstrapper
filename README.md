@@ -1,1 +1,21 @@
-# hrsm-bootstrapper
+# **HRSM APAC DEMO**
+This Bootstrapper allows you to run the following demo scenarios:
+- New Hire Onboarding
+- Book a conference room
+- Problem Management
+- Compensation adjustment
+- Disciplinary issue
+- Need a corporate credit card
+- Medical Benfits
+- Parental leave of absense
+- Promotion
+- NDA Update
+- Travel Visa Request
+- Payroll Issue
+- Update my emergency contact
+- Pre-hire
+- International Travel
+- New Child
+- Relocation
+- Offboarding
+- Alumni
